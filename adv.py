@@ -15,7 +15,7 @@ def jogo_adivinhacao():
              print("Errado! Esse número é menor")
      
      
-        tentativas += 1 
+        
         chute = int(input("tente novamente:"))
 
     print (f"O chute esta certo!! Parabens! Você acertou em {tentativas} tentativas.")  
